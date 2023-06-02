@@ -40,7 +40,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rafael2d&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=radical&locale=pt-br&hide_border=false&order=1&custom_title=Estatisticas%20Pessoais" height="200" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rafael2d&locale=pt-br&hide_title=false&layout=default &card_width=320&langs_count=4&theme=radical&hide_border=false&order=2&custom_title=Mais%20Usado" height="100" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rafael2d&locale=pt-br&hide_title=false&layout=default&card_width=320&langs_count=4&theme=radical&hide_border=false&order=2&custom_title=Mais%20Usado" height="100" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=rafael2d&locale=pt-br&mode=weekly&theme=radical&hide_border=false&border_radius=8&date_format=j M[ Y]&order=3" height="150" alt="streak graph"  />
 </div>
 
